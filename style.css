@@ -1,2 +1,7 @@
-h1 { color: purple
-;
+/* Styles go here */
+h1 { 
+  color: purple;
+}
+body {
+  background-image: url("https://scontent-ord1-1.xx.fbcdn.net/v/t1.0-9/13775895_1745476535727515_4234215953215529083_n.jpg?oh=33f38c1861faeebc5dc0b3b29c22d6fe&oe=582865E4")
+  ;}
